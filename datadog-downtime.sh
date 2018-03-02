@@ -2,8 +2,8 @@
 # Make sure you replace the API and/or APP key below
 # with the ones for your account
 
-api_key=27602f7a1d1398b89edba031e39baaa3
-app_key=68d4c8f406b31c91c98ea635d95fcc496f3ba9fc
+api_key=APIKEY
+app_key=APPKEY
 
 
 
