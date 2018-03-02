@@ -30,9 +30,8 @@ shift $((OPTIND-1))
 #api_key=
 #app_key=
 # changed
-api_key=3cd30541525c05e08c71ee355d27d03f
-#app_key=87ce4a24b5553d2e482ea8a8500e71b8ad4554ff
-app_key=f696d12450207e024eb1a20444dc8a7221baba35
+api_key=APIKEY
+app_key=APPKEY
 
 #time_min=$t
 
